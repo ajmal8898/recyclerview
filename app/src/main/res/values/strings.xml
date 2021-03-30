@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string-array name="Cities">
+        <item>chennai</item>
+        <item>kochi</item>
+        <item>madurai</item>
+        <item>ernakulam</item>
+        <item>theni</item>
+        <item>idukki</item>
+        <item>malappuram</item>
+        <item>edappal</item>
+        <item>salem</item>
+        <item>banglure</item>
+        <item>mumbai</item>
+        <item>thrissur</item>
+        <item>Winnipeg</item>
+        <item>Toronto</item>
+        <item>Montreal</item>
+    </string-array>
+</resources>
